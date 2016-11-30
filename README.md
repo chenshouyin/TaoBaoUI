@@ -13,4 +13,9 @@
 ##可以收获：
 - 一些工具性质的组件，比如轮播图，可以直接拿去你的项目中改改就能用（懒人必备）
 
+##效果图
+![](https://raw.githubusercontent.com/gnehsuy/TaoBaoUI/master/Images/Screenshot_2016-11-30-14-36-29_com.yus.taobaoui.png)
+
+![](https://raw.githubusercontent.com/gnehsuy/TaoBaoUI/master/Images/Screenshot_2016-11-30-14-37-56_com.yus.taobaoui.png)
+
 
